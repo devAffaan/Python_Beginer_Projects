@@ -1,1 +1,1 @@
-Python Projects for Beginers!
+Python Projects for Beginers.
